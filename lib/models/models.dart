@@ -1,0 +1,1 @@
+export 'package:stic_soft_task/models/productsDataModel.dart';
